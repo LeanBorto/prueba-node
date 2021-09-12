@@ -11,7 +11,6 @@ console.log("Resta: "+ resta ( n1 , n2 ));
 
 n1 = 15;
 n2 = 5;
-
 console.log("Multiplicacion: " + multiplica ( n1 , n2 ));
 
 n1 = 100;
